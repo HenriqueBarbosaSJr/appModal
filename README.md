@@ -1,4 +1,4 @@
-# Projeto para consumo de dados de uma API
+# Componente Modal
 
 Exemplo de componente modal com passagem de parâmetros
 
